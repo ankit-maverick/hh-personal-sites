@@ -205,6 +205,7 @@ https://www.facebook.com/groups/hackathonhackers/permalink/845765672145586/
 - Steve Dean http://about.me/stevenmdean
 - Suril Shah http://www.eng.uwaterloo.ca/~sn3shah/
 - Tejas Manohar http://tejas.io
+- Tejas Nikumbh http://tejasnikumbh.github.io
 - Terry Piercson http://taehongmin.com/
 - Timotius Sitorus http://timsitorus.com
 - Ty-Lucas Kelley http://tylucaskelley.com
